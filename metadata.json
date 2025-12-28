@@ -1,0 +1,7 @@
+{
+  "name": "Pork Shop Manager",
+  "description": "A comprehensive modern React application for managing a pork shop, including POS, Production Planning, Inventory, and Employee management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
