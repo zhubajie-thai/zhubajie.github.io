@@ -15,7 +15,7 @@
     "lucide-react": "0.292.0",
     "recharts": "2.10.3",
     "html5-qrcode": "2.3.8",
-    "lodash": "4.17.21"
+    "lodash": "4.17.23"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
